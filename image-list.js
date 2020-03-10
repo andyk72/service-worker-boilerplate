@@ -22,5 +22,19 @@ var Gallery = { 'images' : [
     'url': 'gallery/bountyHunters.jpg',
     'credit': '<a href="https://www.flickr.com/photos/legofenris/">legOfenris</a>, published under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic</a> license.'
   },
+
+  {
+    'name'  : 'Ski',
+    'alt' : 'Skiing is lovely.',
+    'url': 'gallery/sci.jpg',
+    'credit': '<a href="https://www.flickr.com/photos/legofenris/">legOfenris</a>, published under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic</a> license.'
+  },
+
+  {
+    'name'  : 'Tigri',
+    'alt' : 'Tigri are wonderful and sublime.',
+    'url': 'gallery/tigri.jpg',
+    'credit': '<a href="https://www.flickr.com/photos/legofenris/">legOfenris</a>, published under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic</a> license.'
+  }
   
 ]};
